@@ -1,3 +1,8 @@
+# Responsive Parallax React Portfolio Website
+This is a React-based portfolio website that implements a parallax effect using the react-scroll-motion library. The website features smooth scrolling and animated transitions, and is optimized for both desktop and mobile devices.
+
+https://user-images.githubusercontent.com/3766249/233237208-b90daadf-0295-4368-afed-b0d706ca88fb.mp4
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
